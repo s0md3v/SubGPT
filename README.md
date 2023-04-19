@@ -1,4 +1,9 @@
-SubGPT looks at subdomains you have already discovered for a domain and uses BingGPT to predict and find more. Best part? It's free!
+<h1 align="center">
+  <br>
+  <a href="https://github.com/s0md3v/SubGPT"><img src="https://i.ibb.co/ZLKhqKt/test.png" width="200px" alt="SubGPT"></a>
+</h1>
+
+SubGPT looks at subdomains you have already discovered for a domain and uses BingGPT to find more. Best part? It's free!
 
 The following subdomains were found by this tool with [these](https://gist.githubusercontent.com/s0md3v/237f246ddbc17756a77837daaa1cc674/raw/5863caaa1c991aaf50c45acb25c226c7d8d776c0/input.txt) 30 subdomains as input.
 ```
