@@ -31,7 +31,7 @@ If you like my work, you can support me with as little as $1, [here](https://git
 > Note: Any issues regarding BingGPT itself should be reported [EdgeGPT](https://github.com/acheong08/EdgeGPT), not here.
 
 ### Using SubGPT
-The standard way to use SubGPT is as follows:
+It is supposed to be used after you have discovered some subdomains using all other methods. The standard way to run SubGPT is as follows:
 ```
 subgpt -i input.txt -o output.txt -c /path/to/cookies.json
 ```
