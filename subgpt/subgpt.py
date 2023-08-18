@@ -6,7 +6,7 @@ import sys
 import tldextract
 
 import dns.resolver
-from EdgeGPT import Chatbot, ConversationStyle
+from EdgeGPT.EdgeGPT import Chatbot, ConversationStyle
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', help='file containing subdomains', dest='input_file')
